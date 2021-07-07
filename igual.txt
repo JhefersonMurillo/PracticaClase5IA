@@ -1,1 +1,2 @@
-este archivo se llama igual que el de mi compañero
+Esto es un archivo
+Es un nuevo archivo
